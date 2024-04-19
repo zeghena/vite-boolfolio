@@ -40,19 +40,19 @@ export const store = reactive({
 
   footerSocialLinks: [
     {
-      label: "bi bi-twitter",
+      label: "twitter",
       url: "#",
     },
     {
-      label: "bi bi-facebook",
+      label: "facebook",
       url: "#",
     },
     {
-      label: "bi bi-instagram",
+      label: "instagram",
       url: "#",
     },
     {
-      label: "bi bi-github",
+      label: "github",
       url: "#",
     },
   ],
